@@ -9,4 +9,4 @@ This repo shows how to automate doom-scrolling using your camera and facial move
 ```
 python doom.py
 ```
-Also packaged as a stand-alone Windows app
+Also packaged as a stand-alone Windows app, or maybe not.
